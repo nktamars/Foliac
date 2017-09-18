@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="174px" height="99px" viewBox="0 0 174 99">
+<style type="text/css"><![CDATA[
+.style0 {
+  font-size: 52px;
+  font-family: "Pacifico-Regular";
+  fill: rgb(255,255,255);
+}
+.style1 {
+  font-size: 26px;
+  font-family: "Pacifico-Regular";
+  fill: rgb(255,255,255);
+}
+]]></style>
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter0">
+<feFlood flood-color="rgb(71,190,113)" result="coFloodOut1"/>
+<feComposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feBlend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<g><image x="0" y="0" width="88" height="99" filter="url(#filter0)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAABjCAMAAAAo9jdoAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAz1BMVEUAAAAgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCYgJCb///8lqokXAAAAQ3RSTlMABFmz6EXV1COwDYj5AmDnOcobpAh79VTfLsAUl/1w729H1yUOivpj6WI7zRynCX72V+EwwhCZ/ijiF62uN5zgmn+LbuhN7AAAAAFiS0dERPm0mMEAAAGZSURBVGje7dpXU8JQEIbhAwGlhd6rdKSEXqWI+///k9nRcUQgnCRnx5t97/Pc5SL7RQi5PF7NB+DTvB7JByTzP8F3z36FbCAIvwoGFLGhcAQuioRDClg9GoOrYlHdrRtPwM0ScVdsMgV3SyUds+lMFizKZtLO3FweHpTPOWALxUcsVizYZEvliowLUCmXbLCeak2OxWov0m95vSHPYo26FNvU7LGY1nzIttod+y5Ap92yZPVuzwmL9V4t3vL+wCmLDfp32OHIDYuNhjdYYzxx6wJMxsZfdzpzz2Kz6QU7X6hhscX8h12u1upcgPVq+eVutipZbLtBd6fcNeWdCb+pdwH2QhwoXICDONLAR3GigU+CxgVgmGGGGWaYYYYZZphhhhlmmOF/hsm+pcm+/snuFWJP4e4pb0JkVyzz7vZOc3ejuxQS3jbxGntWcY09X11j6e7HhBdvlzf6rvUS1/ogWRUwoh0EI1puhN2tqWpnUSZaxzCiPQ8jWiDNDKLNVJCtvBjRLi3olnRBtv1jRH8rYET/VwgHf4R8Au4/2FEolg2/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA4LTI5VDE2OjExOjM4KzAwOjAwsYAhwgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wOC0yOVQxNjoxMTozOCswMDowMMDdmX4AAAAASUVORK5CYII=" /><text transform="translate(40.50,64.50)" class="style0"><tspan x="-7.59" fill="rgb(255,255,255)">f</tspan></text><text transform="translate(142.50,57.50)" class="style1"><tspan x="-31.52 -24.27 -10.00 -3.86 2.22 14.76 26.14" fill="rgb(255,255,255)">foliac.</tspan></text></g></svg>
