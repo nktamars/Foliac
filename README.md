@@ -10,6 +10,7 @@ Sample website made during front end development course at [Beetroot](https://ww
 * Filtering images
 * Smooth scrolling
 * CSS animation
+* Parallax
 
 ## Authors
 
